@@ -33,14 +33,8 @@ Le projet couvre :
 
 ---
 
-## 🎥 Démonstration vidéo (lecture directe GitHub)
+## 🎥 Démonstration vidéo
 
-> 📌 La vidéo suivante montre :
-> - Les instances EC2 actives  
-> - Le dashboard Wazuh  
-> - Les scénarios d’attaque Linux & Windows  
-> - Les alertes SIEM / EDR  
-> - Le Threat Hunting  
 
 <video src="Demo/demo-siem-wazuh.mp4" controls width="100%"></video>
 
